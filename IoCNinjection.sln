@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCNinjection", "IoCNinjection\IoCNinjection.csproj", "{9BAE9B50-3003-4B6F-B53E-676A8B82F23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCCastle", "IoCCastle\IoCCastle.csproj", "{A3F03C5B-1AB8-4B2F-8B09-F1C58CCD106E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAE9B50-3003-4B6F-B53E-676A8B82F23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAE9B50-3003-4B6F-B53E-676A8B82F23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAE9B50-3003-4B6F-B53E-676A8B82F23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAE9B50-3003-4B6F-B53E-676A8B82F23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F03C5B-1AB8-4B2F-8B09-F1C58CCD106E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F03C5B-1AB8-4B2F-8B09-F1C58CCD106E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F03C5B-1AB8-4B2F-8B09-F1C58CCD106E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F03C5B-1AB8-4B2F-8B09-F1C58CCD106E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C3B75CC-C679-4D02-8588-5D132BCD0E99}
+	EndGlobalSection
+EndGlobal
